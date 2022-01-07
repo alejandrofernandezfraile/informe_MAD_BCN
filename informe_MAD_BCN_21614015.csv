@@ -1,0 +1,5 @@
+"idccaa","low_cost","max(precio_gasoleo_a)","min(precio_gasoleo_a)","mean(precio_gasoleo_a)","max(precio_gasolina_95_e5_premium)","min(precio_gasolina_95_e5_premium)","mean(precio_gasolina_95_e5_premium)"
+"09","low_cost",1.449,1.189,1.31785,1.659,1.369,1.46105
+"09","no_low_cost",1.469,1.325,1.41556363636364,1.719,1.529,1.61130909090909
+"13","low_cost",1.459,1.389,1.429,1.659,1.519,1.60233333333333
+"13","no_low_cost",1.465,1.345,1.42930985915493,1.689,1.539,1.61684507042254
